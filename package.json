@@ -1,0 +1,10 @@
+{
+  "name": "generator-docuYoda",
+  "version": "1.0.0",
+  "description": "Scaffolding for Pandoc documents for Turtles [docuYoda]",
+  "main": "index.js",
+  "repository": "https://github.com/HaoZeke/generator-docuYoda",
+  "author": "HaoZeke [Rohit Goswami]",
+  "license": "MIT",
+  "private": false
+}
